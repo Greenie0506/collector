@@ -10,7 +10,7 @@ gem 'sqlite3'
 group :test, :development do
   gem 'jasmine'
   gem 'rspec-rails'
-  gem 'capybara-webkit'
+  gem 'capybara'
 end
 
 # Gems used only for assets and not required
